@@ -16,7 +16,11 @@ Compartilhando um pouco da minha experiência, no começo parecia que a área de
 Aqui vão algumas dicas - mas, de novo, veja as que fazem sentido para a sua vida, carreira e saúde mental!
 
 ### Dicas 
-- 
+- Evite comparações - cada pessoa possui sua própria vivência e ritmo de aprendizado, então evite se comparar a outros devs 
+- Entenda qual forma de estudo funciona melhor para você - algumas pessoas preferem seguir tutoriais, outras assistir video aulas ou ter aulas presenciais. O importante é entender qual método funciona melhor para você 
+- Prática: desenvolvimento de software exige prática, tente sempre que possível implementar algo que aprendeu 
+- Busque entender o conceito, não apenas a prática: quando estamos aprendendo algo novo, é comum já querer sair codando. Não há nada de errado com isso, porém, é importante saber os conceitos das coisas, porque aí independente da linguagem ficará mais fácil de entender códigos já existentes 
+- Seja paciente e busque ajuda: uma parte muito importante do processo de desenvolvimento é conversar e trocar esperiências com outros desenvolvedores. Revisar código, tentar contribuir com projetos open-source pode ser uma boa maneira de aplicar algo que aprendeu e geralmente nesse tipo de projeto há pessoas que podem ajudar você a desenvolver suas habilidades
 
 
 # Recursos
@@ -25,38 +29,32 @@ Abaixo você encontra uma lista de recursos legais para aprender, divididos por 
 
 ## Conceitos
 
+### sobre programação
+- [Estruturas de dados]()
+- [Arquitetura de aplicações]()
+- [Fluxo de desenvolvimento]()
+- [Paradigmas de programação]()
+- [Banco de dados]()
+
+
+### sobre backend
+- [REST]()
+- [Protocolos de comunicação de APIs]()
+- [Nuvem, devops e deploy]()
+- [Linguagens e frameworks para backend]()
 
 ## Sobre times, processos, metodologias e soft skill
+- [Metodologia ágil]()
+- [Ciclo de vida de produtos]()
+- [O que cobrar de um gerente de engenharia]()
+- [Processo de desenvolvimento de produtos digitais]()
 
-
-## Arquitetura 
-
-
-## Paradigmas de programação
-
-
-## Estrutura de dados 
-
-
-
-## Banco de dados 
-
-
-
-## Linguagens e frameworks
-
-
-
-## DevOps e infraestrutura
-
-
-## Testes 
-
-
-## Otimização e performance 
-
-
-## Logs e observabilidade 
+## Técnicas, manifestos e testes
+- [TDD - test driven development (ou desenvolvimento orientado a testes)]()
+- [DDD - domain driven development (ou desenvolvimento orientado a dominio)]()
+- [Código limpo]()
+- [GIT]()
+- [Logs e observabilidade]() 
 
 
 
