@@ -30,31 +30,32 @@ Abaixo você encontra uma lista de recursos legais para aprender, divididos por 
 ## Conceitos
 
 ### sobre programação
-- [Estruturas de dados]()
-- [Arquitetura de aplicações]()
-- [Fluxo de desenvolvimento]()
-- [Paradigmas de programação]()
-- [Banco de dados]()
+- Estruturas de dados
+- Arquitetura de aplicações
+- Fluxo de desenvolvimento
+- Paradigmas de programação
+- Banco de dados
 
 
 ### sobre backend
-- [REST]()
-- [Protocolos de comunicação de APIs]()
-- [Nuvem, devops e deploy]()
-- [Linguagens e frameworks para backend]()
+- REST
+- Protocolos de comunicação de APIs
+- Nuvem, devops e deploy
+- Linguagens e frameworks para backend
 
 ## Sobre times, processos, metodologias e soft skill
-- [Metodologia ágil]()
-- [Ciclo de vida de produtos]()
-- [O que cobrar de um gerente de engenharia]()
-- [Processo de desenvolvimento de produtos digitais]()
+- Metodologia ágil
+- Ciclo de vida de produtos
+- O que cobrar de um gerente de engenharia
+- Processo de desenvolvimento de produtos digitais
 
 ## Técnicas, manifestos e testes
-- [TDD - test driven development (ou desenvolvimento orientado a testes)]()
-- [DDD - domain driven development (ou desenvolvimento orientado a dominio)]()
-- [Código limpo]()
-- [GIT]()
-- [Logs e observabilidade]() 
+- TDD - test driven development (ou desenvolvimento orientado a testes)
+- DDD - domain driven development (ou desenvolvimento orientado a dominio)
+- Código limpo
+- GIT
+- Logs e observabilidade
 
+## Outros recursos que podem ser interessantes
 
 
