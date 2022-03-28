@@ -38,6 +38,7 @@ Abaixo você encontra uma lista de recursos legais para aprender, divididos por 
 
 
 ### sobre backend
+- internet, protocolos, camadas, e dns
 - REST
 - Protocolos de comunicação de APIs
 - Nuvem, devops e deploy
