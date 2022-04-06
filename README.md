@@ -2,6 +2,9 @@
 
 Olá! Este repositório é uma espécie de guia para pessoas que querem começar ou já estão na área de desenvolvimento backend e desejam se aperfeiçoar nessa área
 
+### Apresentação
+Slides usados na apresentação que motivou a criação desse repositório: [link](https://docs.google.com/presentation/d/15VXPUkJryO4EaAryu6moA8Upb1VM5bKREkIdNG6XHIo/edit?usp=sharing)
+
 
 # Antes de começar
 
